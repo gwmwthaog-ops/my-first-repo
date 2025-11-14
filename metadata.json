@@ -1,0 +1,5 @@
+{
+  "name": "Fruit Slice Frenzy",
+  "description": "A fun and interactive fruit cutting game built with React and TypeScript. Slice the fruits as they fly across the screen, but be careful to avoid the bombs! Test your reflexes and aim for the high score.",
+  "requestFramePermissions": []
+}
